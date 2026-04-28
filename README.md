@@ -1,6 +1,13 @@
 #  About Me:
-I’m a AI/ML Engineer at heart, tech explorer by choice. Building autonomous systems, diving into AI, and chasing adrenaline through Ironman, skydives, and bungee jumps.<br>I’m looking to collaborate on building models, computer vision pipelines, ADAS tech <br>Ask me about Technology, Sports, Cars <br>Fun fact - The word "engineer" comes from the Latin ingenium, which translates to "cleverness" or "native talent"
+I’m a AI/ML Engineer at heart, tech explorer by choice. Building autonomous systems, diving into AI, and chasing adrenaline through Ironman, skydives, and bungee jumps.<br>I’m looking to collaborate on building models, computer vision pipelines, ADAS tech <br>Ask me about Technology, Sports, Cars.
 
+Core Domains:
+  - Autonomous Driving
+  - Machine Learning & AI
+  - Computer Vision
+  - Sensor Fusion
+  - Robotics Systems
+  
 ##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ha7shpatil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ha7shpatil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harsh23patil96@gmail.com) 
 
